@@ -1,0 +1,14 @@
+{
+  "originHash" : "7dcdb62570cb711531e302ef2f28b6582a2af41479312af4887113b8c5578ac0",
+  "pins" : [
+    {
+      "identity" : "simplecameralibrary",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AniketKumar090/SimpleCameraLibrary.git",
+      "state" : {
+        "revision" : "37a6878db43642ac3ad61dbbc822e7bad1c68bb8"
+      }
+    }
+  ],
+  "version" : 3
+}
